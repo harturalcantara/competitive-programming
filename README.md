@@ -1,0 +1,3 @@
+# Competitive programming
+
+Some competitive programming implementations...
